@@ -1,0 +1,15 @@
+{
+  "name": "es6-and-beyond",
+  "version": "1.0.0",
+  "description": "lunch and learn presentation code",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
